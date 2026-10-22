@@ -2,7 +2,7 @@
 I'm Paul Wandera, a Ugandan-born student at the University of Florida. I study Statistics with minors in Computer Science and Mathematics. I aim to gain experience in applying statistical and machine learning methods to real-world scenarios. I enjoy bridging abstract statistical theory with hands-on data-science tasks particularly in finance and economic specializations but any application piques my interest.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages**: Python, C++, R/RStudio, SQL, PySpark
+- **Languages**: Python, R/RStudio, SQL, PySpark
 - **Data & Quantitative Libraries**: NumPy, Pandas, SciPy, Statsmodels, Matplotlib, Seaborn,
 - **Systems & Environments**: Jupyter, VS Code
 - **Frameworks**: Streamlit
