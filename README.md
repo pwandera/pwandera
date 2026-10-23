@@ -12,6 +12,10 @@ I'm Paul Wandera, a Ugandan-born student at the University of Florida. I study S
 - NVIDIA Fundamentals of Deep Learning
 - Bloomberg Markets Concepts
 
+#### 📕 Currently Reading
+- *Introduction to Statistical Methods for Financial Models. By Thomas A. Severini*
+- *The Republic. By Plato*
+
 <!--
 **pwandera/pwandera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
